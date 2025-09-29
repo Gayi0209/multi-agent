@@ -1,7 +1,19 @@
+# Core app
 streamlit==1.26.0
+pandas==2.1.1
+plotly==5.16.0
+numpy==1.27.0
+python-dotenv==1.0.0
+requests==2.31.0
+tqdm==4.66.1
+
+# CrewAI & LLM
 crewai==0.8.11
 crewai-tools==0.1.4
 langchain-google-genai==0.0.12
-python-dotenv==1.0.0
-plotly==5.16.0
-pandas==2.1.1
+
+# Rich text and Markdown support
+rich
+markdown-it-py
+pygments
+mdurl
