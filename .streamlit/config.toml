@@ -1,0 +1,4 @@
+[theme]
+# The preset Streamlit theme that your app uses.
+# Can be "light" or "dark".
+base="light"
