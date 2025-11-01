@@ -5,3 +5,4 @@ langchain-google-genai
 python-dotenv
 plotly
 pandas
+crewai[google-genai]
